@@ -1,0 +1,4 @@
+# Place the host you wish to backup
+# e.g user@host
+# NOTE: a line that BEGINS with '#' is ignored 
+# NOTE: a blank line is ignored also
